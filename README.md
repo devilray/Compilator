@@ -1,1 +1,3 @@
-# Compilator
+# Compilatora
+
+Lexical compilator
